@@ -201,3 +201,101 @@ Prompt: Map Design
 Not one of those old school paper ones though. Actually, that might be kinda neat. ;)
  
 What type of information should it have? Should its color scheme compliment the brand? Is it for food delivery? Or an interactive map of train stations?
+
+## 031
+
+Prompt: File Upload
+
+Is it the loading screen and an icon? A progress element? Are folders being uploaded by flying across the screen like Ghostbusters? ;)
+ 
+Would a user need to input additional information such as tax data or attach an image (like an identification card) during the process?
+
+## 032
+
+Prompt: Crowdfunding
+
+Keep in mind the purpose... raising funds. It's important to make a design simple and compelling if you're seeking money. Is it for startups to raise money from investors? (Such as on WeFunder, Republic, StartEngine)
+ 
+Or raising funds for a community cause like funding the restoration of a historical monument?
+ 
+So what's really important? The number of contributors, the total amount raised, campaign details, and highlights? Also consider size, imagery, placement, slogans, etc.
+
+## 033
+
+Prompt: Customize Product
+
+Design something related to customizing a product. It could be a custom t-shirt, stickers, shoes, etc. Or is this someone customizing their phone's text and lock screen?
+ 
+What elements does a custom product need? A logo, an image, extra text, or something else? 
+
+## 034
+
+Prompt: Automotive Interface
+
+Consider the elements you'd want and need in your own vehicle's dashboard. If you don't have a car, think of what's needed to control one in a video game, a VR headset, or in a movie. Be creative, yet logical.
+
+## 035
+
+Prompt: Blog Post
+
+Consider what's important- the content of course. Also consider the author, date, category, comments, layout, etc. 
+ 
+Are you viewing it as the author (with extra features for editing content) or a reader?
+
+## 036
+
+Prompt: Special Offer
+
+Design a promo. What is the product and how is it being promoted? Is it an email promotion, a clearance item on a website, a “Buy One, Get One” offer, or something else? 
+ 
+Is it the discount size or percentage that's important? Does it look compelling?
+
+## 037
+
+Prompt: Weather Design
+
+It could be a UI for a mobile app, a web app, or something completely different such as a weather alert widget. Consider its elements: city, temperature, forecasts, colors, weather icons/graphics, etc.
+ 
+Is it being viewed on a smart watch or phone? Is it a weather warning for a storm or is it something unique such as something for a farm? 
+
+## 038
+
+Prompt: Calendar
+
+Design a Calendar focused element. Is it for scheduling an appointment? A reservation, flight, hotel, or a health check? Is it a calendar reminder feature? Is it used in email or for something else entirely?
+ 
+It could even be a calendar booking page for design services. Or an interactive online holiday calendar.  
+
+## 039
+
+Prompt: Testimonial
+
+Create a design with some kind of testimonial. It could be a book or product review testimonial. Who is the customer? What did they buy and why did they enjoy it? Is there a star rating or a 1-10 style review? 
+ 
+Testimonials help build trust with an audience so these can be especially important elements for a website.
+
+## 040
+
+Prompt: Recipe or Food Order
+
+Design a food related recipe. It could displayed on a tablet while someone is cooking in their home kitchen or in the back of a restaurant on a Kitchen Display System (aka KDS).
+ 
+Clarity is important because a restaurant or online food ordering service needs to be simple in order to be fast for customers to find what they want and how it can be customized. Confusing menus or recipes slow down the kitchen and the entire business.
+
+## 041
+
+Prompt: Workout / Exercise
+
+Create a UI related for monitoring health or tracking various workout/training routines. It could be for a personal workout, for a team, or even gym equipment tracking customer workouts.
+ 
+Making a health app that is fun to use makes the entire experience more enjoyable and therefor more likely to be repeated. 
+ 
+Tip: exercise regularly to get blood and oxygen flowing for health, better sleep, and to boost your creative mood. It's easier to be happy if you're healthy. :)
+
+## 042
+
+Prompt: To-Do List or Manager
+
+Everyone has priorities. Working in technology is a never-ending flow of new projects, requests, revisions, and more. 
+ 
+What productivity software or tool would you use to improve your workflow? 
