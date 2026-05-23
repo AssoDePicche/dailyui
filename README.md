@@ -299,3 +299,294 @@ Prompt: To-Do List or Manager
 Everyone has priorities. Working in technology is a never-ending flow of new projects, requests, revisions, and more. 
  
 What productivity software or tool would you use to improve your workflow? 
+
+## 043
+
+Prompt: Food Menu Items
+
+Create a food menu for a bar or restaurant. It could be a simple coffee shop or a more complex menu such as for a pizza restaurant (with multiple sizes, toppings, variations, etc.).
+ 
+Or is it for a touchscreen tabletop ordering system at a nightclub? You can be creative here. 
+
+## 044
+
+Prompt: Favorites
+
+Bookstores, video games, podcasts, and streaming services all have a favorites section. 
+ 
+Are you favoriting certain items? Or are you favoriting something on a website such as Facebook, Behance, Github, etc.?
+
+## 045
+
+Prompt: Info Card
+
+These are designed to be snippets of information - so not too much, just the basics. 
+ 
+What's being viewed? Is it a small information area about a home for sale? (square footage, # of bathrooms and bedrooms, year built)
+ 
+Or a gamer's profile page with some recent statistics?
+
+## 046
+
+Prompt: Invoice
+
+Invoices are generally sent for products or services before or after fulfillment. For example, a web designer or software engineer might send an invoice for a new website with 25% as a downpayment and the remainder on completion. 
+ 
+This is not a quote or proposal, so it should have only the required information for payment, services rendered, prices, etc. and ideally a link/button to receive payment. 
+ 
+Tip: An invoice is a nice opportunity to thank a client. Uplifting comments can put clients in a good mood. If you know them in a personal/friendly context, sometimes a meme can help break the ice on making a payment. :)
+
+## 047
+
+Prompt: Activity Feed
+
+Everyday we're overwhelmed with information.
+ 
+Design an activity feed that's fun and useful. It could be for a news reader app, a social media site, or for inspirational travel content updates.
+
+## 048
+
+Prompt: Coming Soon
+
+What's coming soon? A new video game? A new blockbuster film? When and where is it being released? 
+ 
+Or is this for a specific company or product announcement? 
+Some brands are famous for their teaser and coming soon pages. It's an opportunity to excite and/or educate your users.
+
+## 049
+
+Prompt: Notification
+
+Today's challenge is super simple. 
+ 
+Just a plain and easy notification. It could be a daily reminder to take medication, a new message received notification, or app updates. 
+
+## 050
+
+Prompt: Job Listing or Hiring Page
+
+Who is hiring? What's the position? Where is it located? Are there benefits? 
+ 
+Hiring pages are a great opportunity for brands to give fun facts about their team. That can help prospective employees learn something interesting that could inspire them. For example, a team page might say “We take an annual team vacation to Hawaii.”
+
+## 051
+
+Prompt: Press Page
+
+Create a Press Page design. Think about who you are representing and what important information you should convey. Is it for a new startup? A huge global brand? A nonprofit organization? Or a small local business? Or is it actually for a person such as a celebrity, athlete, politician, etc.?
+
+## 052
+
+Prompt: Logo Design
+
+Will it be animated? In what capacity will it be used?
+Branding is generally a serious matter for most companies and the considerations for size, placement, color, etc. should be thought out carefully.
+ 
+The biggest brands don't always have the best logos. A great logo is one that compliments a specific purpose and not necessarily a generic image or name. For example, Nike uses a swoosh which shows motion and speed - core parts of their running image. Mailchimp showcases a monkey rather than an “email” icon and it adds depth and character to their brand.
+
+## 053
+
+Prompt: Website Navigation
+
+Most websites have a navbar that's stuffed with links and logos. 
+ 
+What could you design that's both functional and appealing? How could you make it unique? 
+
+## 054
+
+Prompt: Confirmation
+
+Design a Confirmation UI element. What's being confirmed? Is it confirming an address, order, shipping, plane tickets, hotel reservation, dinner reservation, booking tickets to the opera, or something else? Also consider where it's occurring (i.e. website, mobile app, email confirmation, etc.)
+
+## 055
+
+Prompt: Icon Set
+
+Create some icons to be used together. It could be for a taskbar, showcasing features or services, or even for something like a shopping app. (Icons might be a cart, a shipping box, a size icon, etc.)
+
+## 056
+
+Prompt: Breadcrumbs
+
+Every interaction on a website or within an app is an opportunity. 
+ 
+Although a seemingly small detail, breadcrumbs are very necessary and yet often neglected in terms of their appearance and functionality. To truly achieve great design sense you need to consider even the smallest details.
+
+## 057
+
+Prompt: Video Player
+
+Design a video play with all the functions needed: volume, skip, fast forward, etc. Depending on the device you'll want to consider different needs such as inputs for a TV (HDMI 1, etc.) or hover effects for a remote cursor.
+
+## 058
+
+Prompt: Shopping cart
+
+Some brands use a cart or bag during their checkout process. Consider the products, prices, and placement of any other required data. Do people need to create an account? Checkout as a guest? Is there shipping?
+
+## 059
+
+Prompt: Background Pattern
+Whether an e-commerce site, a blogs, or a landing page, backgrounds are often unnoticed. How can you design a useful and beautiful one? 
+ 
+Video background? Moving patterns or textures? You decide.
+
+## 060
+
+Prompt: Color Picker
+
+What is the user doing? Designing a website? Selecting a t-shirt color? 
+ 
+Colors are an important part of product design and making it simple to select great color schemes is crucial. 
+
+## 061
+
+Prompt: Redeem Coupon
+
+Imagine that it's time for someone to redeem a coupon. 
+ 
+It could be via an in person self-checkout screen or on a website. Think about the requirements of a coupon such as the discount percentage, the subtotal, total, and other unique features.
+ 
+Always make it easy. The last thing people want to encounter is a complex interface that adds friction to the redemption process.
+
+## 062
+
+Prompt: Sign Up Form
+
+Create a sign up page, modal, form, or app screen related to signing up for something. It could be for a volunteer event, contest registration, a giveaway, or anything you can image.
+
+## 063
+
+Prompt: Best Of
+
+“Best of” lists can be used for featured news articles, “best of …” city magazines, top selling products, best selling books, etc. 
+ 
+What's best, why, and how will you display it?
+
+## 064
+
+Prompt: User Selection
+
+Create a modal, page, toggle, or some other element to represent the selection of a user profile. It could be inside a video app, managing multiple social media accounts, a video game, or something totally unique.
+
+## 065
+
+Prompt: Notes Widget
+
+We all need to record a note at some point. Whether it's a full page document, a small shopping list, or a note inside of an app 
+ 
+Create a widget to incorporate a notes feature.
+
+## 066
+
+Prompt: Statistics
+
+Applications used for finance, engineering, sports, and even video games have tons of statistics.
+ 
+Design something to show off the top statistics.
+
+## 067
+
+Prompt: Hotel or Vacation Rental Booking
+
+Create a website, listing page, or booking reservation UI for a vacation property. 
+ 
+Consider extra elements: non-smoking rooms, security deposits, amenities, etc.
+
+## 068
+
+Prompt: Flight Search
+
+Design an app or website for either searching for flights or comparing options.
+ 
+Consider the variables: one-way, roundtrip, or multi-stop flight? Baggage fees? Making a lot of data look simple isn't easy, but it's what your users will appreciate. Millions of people travel everyday so every little detail makes a difference.
+
+## 069
+
+Prompt: Trending
+
+Create a trending list or feature. What's trending? Music, movies, stock prices, or something else? 
+ 
+Think about if it'll be the main focus or a minimal element such as a scrolling banner or notification widget.
+
+## 070
+
+Prompt: Event Listing
+
+Design a feature or display for upcoming events. Concerts, workshops, summer camps, seminars, or other training events. Get creative with the purpose and style. 
+
+## 071
+
+Prompt: Scheduling 
+
+Design elements or a full experience for a schedule. It could be for a hospital to schedule patients, a bank to schedule payments, a band's concert schedule or anything.
+
+## 072
+
+Prompt: Slider
+
+Create a slider design. It could be to swipe between photos in a property listing app, dating profiles, display album artwork, or a traditional slider for volume or settings. 
+
+## 073
+
+Prompt: Virtual Reality
+
+A headset, a screen, or the virtual controls required. Small screen real estate requires more hand gestures so be intuitive.
+
+## 074
+
+Prompt: App Download
+
+Create a download page, modal, form, or  screen related to downloading something. It could be for a volunteer event, contest registration, or anything you can image requiring a download.
+
+## 075
+
+Prompt: Pre-Order
+
+Design a page or element to encourage pre-orders for something. It could be an upcoming book, movie, website template, etc.
+
+## 076
+
+Prompt: Loading
+ 
+What's loading? It could be a website, a movie buffering, or a super fun animation for a video game loading.
+
+## 077
+
+Prompt: Thank You (Page or Message)
+
+Thank users for downloading your app or a free eBook. Your design can be simple or funny with a GIF. :)
+
+## 078
+
+Prompt: Invitation
+
+Invite a person or team to something. It could be a wedding, a product launch party, or to join a new website.
+
+## 079
+
+Prompt: Itinerary, 
+
+A packing list for Disneyland or summer camp, a course outline to learn coding, or anything. 
+ 
+What's the purpose and what do the students or attendees need?
+
+## 080
+
+Prompt: Date Picker
+
+Create a date picker for anything. You could make it look simple or give it a wild theme.
+
+## 081
+
+Prompt: Status Update
+
+Design a status update. It could be for a notification bar, a progress indicator for a download that's complete, or something else.
+
+## 082
+
+Prompt: Form
+
+Forms are a vital component for websites. People sign up to attend courses, to register for courses, complete surveys, and so much more. 
+ 
+Making the forms beautiful will help encourage people to complete them. Don't overload them with too much information at once, but let them progress in small stages.
