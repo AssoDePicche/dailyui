@@ -590,3 +590,12 @@ Prompt: Form
 Forms are a vital component for websites. People sign up to attend courses, to register for courses, complete surveys, and so much more. 
  
 Making the forms beautiful will help encourage people to complete them. Don't overload them with too much information at once, but let them progress in small stages.
+
+## 083
+
+Prompt: Button
+
+Buttons are so simple, yet can be so fun to create.
+ 
+Gradients, hover interactions, pulsing elements, sparkles, etc.
+There's an entire world of unique buttons to explore.
