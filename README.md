@@ -599,3 +599,33 @@ Buttons are so simple, yet can be so fun to create.
  
 Gradients, hover interactions, pulsing elements, sparkles, etc.
 There's an entire world of unique buttons to explore.
+
+## 084
+
+Prompt: Badge
+
+Badges can be assigned to users to the number of years they've been on a platform, accomplishments they've made, etc. 
+ 
+They can be fun and information. 
+
+## 085
+ 
+Prompt: Pagination
+
+Dealing with lots of information isn't easy. When there are hundreds of pages or components, things can get messy if there's no clear hierarchy. 
+ 
+Design a pagination look and flow to make it simple.
+
+## 086
+
+Prompt: Progress
+
+What's making progress and how does it work?
+ 
+It could be a progress bar showing time remaining in a movie or it could calculate the progress made reading a book. Anything you want.
+
+## 087
+
+Prompt: Avatar
+
+Design an avatar. It could be for company logos or photos of an app's users. Take into consideration the corner rounding, size, placement, etc.
