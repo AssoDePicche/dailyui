@@ -629,3 +629,39 @@ It could be a progress bar showing time remaining in a movie or it could calcula
 Prompt: Avatar
 
 Design an avatar. It could be for company logos or photos of an app's users. Take into consideration the corner rounding, size, placement, etc.
+
+## 088
+
+Prompt: Sign Up Form
+
+Create a sign up page, modal, form, or app screen related to signing up for something. It could be for a volunteer event, contest registration, a giveaway, or anything you can image.
+
+## 089
+
+Prompt: Agree to Terms
+
+Almost every app or website has legal terms. Signing up for a new product will generally require that users agree to the Terms of Service. 
+ 
+It's not glamorous, but it's important. :)
+
+## 090
+
+Prompt: Create New
+
+Create a design for a user to create something. Maybe it's a new document, a new design file, or a component such as creating a new column in a spreadsheet.
+
+## 091
+
+Prompt: Curated for You
+
+Design something that's been personalized such as a newsfeed, timeline, user profile, etc. 
+ 
+It could even be book, travel, or product recommendations based on your purchases or browsing history.
+
+## 092
+
+Prompt: Frequently Asked Questions
+
+Create some designs for an FAQ widget, section, or full page.
+ 
+Everyone has questions about products and brands that make answers easy to find are amazing. Happy customers, happy business.
