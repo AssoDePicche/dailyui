@@ -665,3 +665,63 @@ Prompt: Frequently Asked Questions
 Create some designs for an FAQ widget, section, or full page.
  
 Everyone has questions about products and brands that make answers easy to find are amazing. Happy customers, happy business.
+
+## 093
+
+Prompt: Splash Screen
+
+Splash screens tend to occur right after someone opens an app. 
+ 
+It's easy to overlook, but making a great first impression with your users is essential to building trust.
+
+## 094
+
+Prompt: News
+
+News is occurring all around the world at all times. There's an ocean of content constantly being created.
+ 
+Design a nice interface for reading the news.
+
+## 095
+
+Prompt: Product Tour
+
+What product is being showcased? Is it a physical product like a shoe or piece of art? Or is it a digital product? 
+ 
+Whatever it is, it's up to you. Consider the most important features and use cases for the product. 
+
+## 096
+
+Prompt: Currently In Stock
+
+Design a display, sequence or something related to items that are in stock (available). It could be food services, products, or inventory of another type. 
+
+## 097
+
+Prompt: Giveaway
+
+Product giveaways are fun for brands and for customers.
+ 
+Imagine a product you'd like to have and how you'd display it to incentivize customers to join.
+
+## 098
+
+Prompt: Advertisement
+
+Not everyone likes seeing ads, but they're crucial for some products. Funny ads or inspiring ones tend to be remembered. 
+ 
+Think of the products being offered and their intended audience.
+
+## 099
+
+Prompt: Categories
+
+Design a way to display different things such as people, photos, plants, products, etc. into different categories. 
+
+## 100
+
+Prompt: Redesign Daily UI
+
+What would you change about the homepage? Or the design prompts? 
+ 
+You could also redesign anything you'd like. :)
